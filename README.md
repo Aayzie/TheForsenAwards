@@ -4,21 +4,15 @@
 
 2. Extract the folder somewhere on your PC.
 
-3. Go to Chrome's extension page: **chrome://extensions/**
+3. Go to Chrome's extension page: **chrome://extensions/** (Make sure you're in Developer Mode)
 
-4. Make sure you're in Developer Mode
+4. Click **Load unpacked** and select the folder you just extracted.
 
-5. Click **Load unpacked**.
+5. Go to https://thestreamerawards.com/
 
-6. Select the folder you just extracted.
+6. :tf:
 
-7. Go to https://thestreamerawards.com/
-
-8. You may remove/uninstall the extension now.
-
-9. :tf:
-
-10. The Disqualification Incident forsenDespair
+7. The Disqualification Incident forsenDespair
 
 ## Demo
 
