@@ -1,0 +1,31 @@
+{
+  "name": "The Forsen Awards",
+  "version": "6.9",
+  "manifest_version": 2,
+  "description": "forsenBased",
+  "homepage_url": "https://github.com/Aayzie/TheForsenAwards",
+  "icons":
+  {
+    "128": "assets/icon.png"
+  },
+  "browser_action":
+  {
+    "default_icon": "assets/icon.png",
+    "default_title": "The Forsen Awards",
+    "default_popup": "src/popup/popup.html"
+  },
+  "content_scripts":
+  [
+    {
+      "matches":
+      [
+        "https://thestreamerawards.com/"
+      ],
+      "js":
+      [
+        "src/lib/jquery-3.6.0.min.js", "src/lib/bililiteRange.js", "src/lib/jquery.sendkeys.js",
+        "src/contents/theStreamerAwardsContent.js"
+      ]
+    }
+  ]
+}
