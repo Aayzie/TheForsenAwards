@@ -1,6 +1,6 @@
 ## How to use (Chrome)
 
-1. Clone the repo or download the zip file.
+1. Download ZIP or clone the repo
 
 2. Extract the folder somewhere on your PC.
 
